@@ -27,7 +27,8 @@ A passionate **Java Full Stack Developer** in training.
 ---
 
 ## 📊 GitHub Stats
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Java-developer&show_icons=true&theme=tokyonight)
+![Abdullah's GitHub Stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahJavaDev&show_icons=true&theme=github_dark)
+
 
 ---
 
