@@ -12,7 +12,7 @@ A passionate **Java Full Stack Developer** in training.
 ---
 
 ## 🛠️ Tech Stack
-- 🔹 Java, JDBC, MySQL
+- 🔹 Core Java, JDBC, MySQL
 - 🔹 HTML, CSS, JavaScript
 - 🔹 J2EE
 - 🔹 Eclipse IDE, MySQL Workbench, GitHub,Visual Studio Code
